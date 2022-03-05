@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rezanyb
+- 👀 I’m interested in python and data science
+- 🌱 I’m currently learning python and data science
+- 💞️ I’m looking to collaborate on ...
+- 📫 My linkedin is https://www.linkedin.com/in/reza-nayerabadi-067966143/
